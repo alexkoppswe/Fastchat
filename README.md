@@ -1,6 +1,9 @@
 # Fastchat [BETA]
 A quick, anonymous and secure chat app made with Htmx and php.
 
+## Dependencies
+- Htmx 2.0.1 <a href="https://htmx.org/">www.htmx.org</a>
+
 ## Features
 - Chatrooms: Users can share link to chatroom and create semi custom room name's (Must be 13 characters long & only Letters and Numbers).
 The chatroom have join & leave messages for users and a list of active users in the left bar with afk detection.
